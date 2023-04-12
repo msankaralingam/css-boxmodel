@@ -1,0 +1,14 @@
+div{
+	background-color:green;
+	width:50%;
+	margin:250px;
+	text-align:center;
+	padding:30px;
+	box-sizing:border-box;
+	max-width:150px;
+	
+}
+div p{
+	color:yellow;
+    
+}
